@@ -1,0 +1,12 @@
+[
+  {
+    "model": "www.person",
+    "pk": 1,
+    "fields": {
+      "name": "Aditya Inapurapu",
+      "title": "Developer",
+      "email": "adityaii@gmail.com",
+      "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAIvAAAAJDQzZTAyZWZmLTlhNTYtNDM3NS1iYTJiLWNkYjAxZGVlY2I0Nw.jpg"
+    }
+  }
+]
