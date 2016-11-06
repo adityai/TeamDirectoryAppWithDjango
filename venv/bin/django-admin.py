@@ -1,4 +1,4 @@
-#!/Users/adityai/code/TeamDirectoryAppWithDjango/venv/bin/python3
+#!/Users/adityai/code/TeamDirectoryAppWithDjango/venv/bin/python3.5
 from django.core import management
 
 if __name__ == "__main__":
