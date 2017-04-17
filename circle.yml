@@ -4,5 +4,7 @@ dependencies:
  
   post:
     - cd Directory
+    - ls -ltr
+    - pwd
     - pip install -r requirements.txt
     
